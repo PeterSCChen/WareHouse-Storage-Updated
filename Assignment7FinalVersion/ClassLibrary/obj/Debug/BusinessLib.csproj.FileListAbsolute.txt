@@ -1,0 +1,9 @@
+D:\BCIT Classes\BCIT CLASS\Comp 2614 C# Development\Visual Studio 2019 C# Projects\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\BCIT Classes\BCIT CLASS\Comp 2614 C# Development\Visual Studio 2019 C# Projects\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\BCIT Classes\BCIT CLASS\Comp 2614 C# Development\Visual Studio 2019 C# Projects\ClassLibrary\bin\Debug\InvoiceLookupApi.dll
+D:\BCIT Classes\BCIT CLASS\Comp 2614 C# Development\Visual Studio 2019 C# Projects\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\BCIT Classes\BCIT CLASS\Comp 2614 C# Development\Visual Studio 2019 C# Projects\ClassLibrary\obj\Debug\BusinessLib.csprojAssemblyReference.cache
+D:\BCIT Classes\BCIT CLASS\Comp 2614 C# Development\Visual Studio 2019 C# Projects\ClassLibrary\obj\Debug\BusinessLib.csproj.CoreCompileInputs.cache
+D:\BCIT Classes\BCIT CLASS\Comp 2614 C# Development\Visual Studio 2019 C# Projects\ClassLibrary\obj\Debug\BusinessLib.csproj.CopyComplete
+D:\BCIT Classes\BCIT CLASS\Comp 2614 C# Development\Visual Studio 2019 C# Projects\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\BCIT Classes\BCIT CLASS\Comp 2614 C# Development\Visual Studio 2019 C# Projects\ClassLibrary\obj\Debug\ClassLibrary.pdb
